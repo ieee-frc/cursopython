@@ -1,8 +1,8 @@
-## cursopython
+# Cursopython
 Curso de introducción a la programación con python 
 #Instructivo para colaborar con los notebooks 
 
-# Cómo colaborar en un proyecto en GitHub
+## Cómo colaborar en un proyecto en GitHub
 
 *   Fork del repositorio
 *   Clonar el repositorio
