@@ -1,4 +1,4 @@
-     ![Logo Rama IEEE UTN](https://i.ibb.co/Rp0xGw4/logo-IEEE.png)
+     [Logo Rama IEEE UTN](https://i.ibb.co/Rp0xGw4/logo-IEEE.png)
     
 
     # Curso Python Inicial - Rama Estudiantil IEEE
