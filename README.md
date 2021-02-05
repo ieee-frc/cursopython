@@ -1,7 +1,7 @@
      ![Logo Rama IEEE UTN](https://i.ibb.co/Rp0xGw4/logo-IEEE.png)
     
 
-    # Curso Python Inicial - Rama Estudiantil IEEE \n ,
+    # Curso Python Inicial - Rama Estudiantil IEEE
     
         Bienvenidos al curso de Python gratuito dictado por la Rama Estudiantil de IEEE de la Universidad Tecnológica Nacional. 
     
